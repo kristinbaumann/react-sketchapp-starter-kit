@@ -14,10 +14,9 @@ Initial setup for a react-sketchapp project
     ```bash
     npm install
     ```
+* Open Sketch with a new project
 
 * Render the React code in Sketch
-    Open Sketch in a new project
-
     ```bash
     npm run render
     ```
