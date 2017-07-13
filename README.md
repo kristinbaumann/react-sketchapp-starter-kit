@@ -1,6 +1,6 @@
 ![react-sketchapp-starter-kit](https://github.com/kristinbaumann/react-sketchapp-starter-kit/blob/master/src/img/logo.png)
 
-Initial setup for a react-sketchapp project
+<div align="center">Initial Setup for a [React Sketch.app](https://github.com/airbnb/react-sketchapp) Project</div>
 
 ## Usage
 
@@ -14,6 +14,7 @@ Initial setup for a react-sketchapp project
     ```bash
     npm install
     ```
+
 * Open Sketch with a new project
 
 * Render the React code in Sketch
