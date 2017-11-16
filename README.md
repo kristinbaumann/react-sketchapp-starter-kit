@@ -8,7 +8,7 @@ Tested with Sketch v.47.1
 
 * Clone this repository
     ```bash
-    git clone https://github.com/kristinbaumann/react-sketchapp-starter-kit project-name
+    git clone git@github.com:kristinbaumann/react-sketchapp-starter-kit.git project-name
     cd project-name
     rm -rf .git
 
