@@ -4,7 +4,7 @@
 
 
 ## Usage
-Tested with Sketch v.47.1
+Tested with Sketch v.50.2
 
 * Clone this repository
     ```bash
